@@ -1,5 +1,4 @@
 <template>
-  <h1>aaa</h1>
   <form class="addlist" @submit.prevent="addList">
     <input v-model="title"
       type="text"
