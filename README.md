@@ -1,3 +1,6 @@
+Vue.js3　× TypeScriptの練習用リポジトリ
+
+
 # my-trello
 
 ## Project setup
